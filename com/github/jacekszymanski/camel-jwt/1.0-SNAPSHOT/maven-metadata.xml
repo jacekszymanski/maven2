@@ -3,21 +3,21 @@
   <groupId>com.github.jacekszymanski</groupId>
   <artifactId>camel-jwt</artifactId>
   <versioning>
-    <lastUpdated>20230415135943</lastUpdated>
+    <lastUpdated>20230415191244</lastUpdated>
     <snapshot>
-      <timestamp>20230415.135943</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20230415.191244</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20230415.135943-2</value>
-        <updated>20230415135943</updated>
+        <value>1.0-20230415.191244-3</value>
+        <updated>20230415191244</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20230415.135943-2</value>
-        <updated>20230415135943</updated>
+        <value>1.0-20230415.191244-3</value>
+        <updated>20230415191244</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
