@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.jacekszymanski</groupId>
+  <artifactId>camel-jwt</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230415124342</lastUpdated>
+  </versioning>
+</metadata>
